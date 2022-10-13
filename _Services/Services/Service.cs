@@ -1,11 +1,11 @@
 using API._Repositories.Interfaces;
 using API.Helpers.Utilities;
 using Aspose.Cells;
-using crawler_api._Services.Interfaces;
-using crawler_api.Dto;
-using crawler_api.Models;
+using ImportDbApi._Services.Interfaces;
+using ImportDbApi.Dto;
+using ImportDbApi.Models;
 
-namespace crawler_api._Services.Services
+namespace ImportDbApi._Services.Services
 {
     public class Service : IService
     {

@@ -1,7 +1,7 @@
-using crawler_api._Services.Interfaces;
+using ImportDbApi._Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace crawler_api.Controllers
+namespace ImportDbApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

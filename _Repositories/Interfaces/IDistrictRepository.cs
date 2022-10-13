@@ -1,10 +1,10 @@
 using API._Repositories.Interfaces;
-using crawler_api.Models;
+using ImportDbApi.Models;
 
-namespace crawler_api._Repositories.Interfaces
+namespace ImportDbApi._Repositories.Interfaces
 {
     public interface IDistrictRepository : IRepository<District>
     {
-        
+
     }
 }

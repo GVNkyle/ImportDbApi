@@ -1,4 +1,4 @@
-namespace crawler_api.Dto
+namespace ImportDbApi.Dto
 {
     public class Model
     {

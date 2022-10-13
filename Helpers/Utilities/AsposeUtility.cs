@@ -1,4 +1,4 @@
-namespace crawler_api.Helpers.Utilities
+namespace ImportDbApi.Helpers.Utilities
 {
     public class AsposeUtility
     {

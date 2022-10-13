@@ -1,4 +1,4 @@
-using crawler_api._Repositories.Interfaces;
+using ImportDbApi._Repositories.Interfaces;
 
 namespace API._Repositories.Interfaces
 {

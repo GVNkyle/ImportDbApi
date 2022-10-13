@@ -1,9 +1,9 @@
 using API._Repositories.Interfaces;
 using API._Repositories.Repositories;
-using crawler_api._Services.Interfaces;
-using crawler_api._Services.Services;
-using crawler_api.Data;
-using crawler_api.Helpers.Utilities;
+using ImportDbApi._Services.Interfaces;
+using ImportDbApi._Services.Services;
+using ImportDbApi.Data;
+using ImportDbApi.Helpers.Utilities;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

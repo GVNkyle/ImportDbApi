@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "crawler_api": {
+    "ImportDbApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

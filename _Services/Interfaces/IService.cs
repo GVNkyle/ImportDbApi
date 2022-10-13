@@ -1,6 +1,6 @@
 using API.Helpers.Utilities;
 
-namespace crawler_api._Services.Interfaces
+namespace ImportDbApi._Services.Interfaces
 {
     public interface IService
     {

@@ -1,7 +1,7 @@
 using API._Repositories.Interfaces;
-using crawler_api._Repositories.Interfaces;
-using crawler_api._Repositories.Repositories;
-using crawler_api.Data;
+using ImportDbApi._Repositories.Interfaces;
+using ImportDbApi._Repositories.Repositories;
+using ImportDbApi.Data;
 
 namespace API._Repositories.Repositories
 {

@@ -1,7 +1,7 @@
-using crawler_api.Models;
+using ImportDbApi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace crawler_api.Data
+namespace ImportDbApi.Data
 {
     public partial class DataContext : DbContext
     {

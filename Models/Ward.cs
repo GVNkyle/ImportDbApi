@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace crawler_api.Models
+namespace ImportDbApi.Models
 {
     public partial class Ward
     {
